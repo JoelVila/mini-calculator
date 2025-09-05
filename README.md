@@ -20,7 +20,5 @@ Una calculadora básica construida con **HTML, CSS y JavaScript**, que permite r
 ## Cosas a mejorar / Próximos pasos
 
 - Manejo de decimales y operaciones más complejas  
-- Teclado virtual y soporte para atajos del teclado  
 - Mejor diseño responsivo para móviles y tablets  
-- Agregar historial de cálculos  
-- Validaciones más robustas para evitar errores con `eval()`
+- Validaciones mejores para evitar errores con `eval()`
